@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405697479209",
+    "project_id": "traintastings",
+    "storage_bucket": "traintastings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405697479209:android:9833ff14b576a4dfcb1238",
+        "android_client_info": {
+          "package_name": "com.example.traintastings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405697479209-7oeakpgbjk8qgb5apgja75gmvgtd9pma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYEm-gaSCrbG34DrobwuOez4BegEWEPcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405697479209-7oeakpgbjk8qgb5apgja75gmvgtd9pma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
